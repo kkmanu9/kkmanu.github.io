@@ -1,5 +1,5 @@
-# A website for Shahid Nawaz Khan's CV
-Thi project hosts Shahid Nawaz Khan's CV
+# A website for Kwaku Karikari Manu's CV
+Thi project hosts Kwaku Karikari Manu's CV
 
 ## Getting Started
 
